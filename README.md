@@ -25,8 +25,8 @@ Lite testtext:
 |123    | 456 | 789 |
 
 ~~~Genomstruket~~~
-
 ```c 
+#include <stdio.h>
 int main(int argc, char *argv[]) {
   int error;
 
