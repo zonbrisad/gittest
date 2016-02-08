@@ -15,8 +15,10 @@ Visit http://www.di.se
 Lite testtext:
 > ASDFas dsfa adsd f
 
+*Asterisk*
+
 ~~~Genomstruket~~~
-``` c
+```c
 int main(int argc, char *argv[]) {
   int error;
 
