@@ -18,7 +18,7 @@ Lite testtext:
 *Asterisk*
 
 ~~~Genomstruket~~~
-```c
+```cpp
 int main(int argc, char *argv[]) {
   int error;
 
