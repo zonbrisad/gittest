@@ -54,4 +54,11 @@ int main(int argc, char *argv[]) {
   return 0;
 }
 ```
+
+```python
+def kalle():
+  print("Nisse")
+  x = 23
+```
+
 ![En bild](test1.png)
