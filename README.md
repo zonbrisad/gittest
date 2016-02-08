@@ -14,7 +14,7 @@ Lite testtext:
 > ASDFas dsfa adsd f
 
 ~~~Genomstruket~~~
-```c
+```c++
 int main(int argc, char *argv[]) {
   int error;
 
