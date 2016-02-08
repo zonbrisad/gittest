@@ -61,4 +61,12 @@ def kalle():
   x = 23
 ```
 
+```c
+#include <stdio.h>
+
+void main(int a) {
+  printf("Kalle\n");
+  return 0;
+}
+
 ![En bild](test1.png)
