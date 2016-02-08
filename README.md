@@ -19,9 +19,9 @@ Lite testtext:
 *Asterisk*
 
 
-| Table | A | B |
-| asd | asd |asd |
-|123 | 456 | 789 |
+| Table | A   | B   |
+| asd   | asd |asd  |
+|123    | 456 | 789 |
 
 ~~~Genomstruket~~~
 
