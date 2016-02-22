@@ -25,6 +25,14 @@ Lite testtext:
 |123    | 456 | 789 |
 
 ~~~Genomstruket~~~
+```c
+#include <stdio.h>
+
+void main(int a) {
+  printf("Kalle\n");
+  return 0;
+}
+```
 
 ```c 
 #include <stdio.h>
