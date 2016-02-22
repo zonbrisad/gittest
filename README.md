@@ -20,10 +20,7 @@ Lite testtext:
 
 ~~~Genomstruket~~~
 
-| Table | A   | B   |
-| ------------- |-------------| -----|
-| asd   | asd |asd  |
-|123    | 456 | 789 |
+
 
 
 ```c
@@ -80,5 +77,10 @@ void main(int a) {
   return 0;
 }
 ```
+
+| Table | A   | B   |
+| ------------- |-------------| -----|
+| asd   | asd |asd  |
+|123    | 456 | 789 |
 
 ![En bild](test1.png)
