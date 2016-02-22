@@ -34,18 +34,18 @@ int main(int argc, char *argv[]) {
 
   // --- Command line arguments ---
   //---------------------------------------------------------------------------
-  struct arg_lit *help     = arg_lit0("h",  "help",                  "Show help");
-  struct arg_lit *version  = arg_lit0(NULL, "version",               "Version");
-  struct arg_lit *verbose  = arg_lit0("v",  "verbose",               "Verbose output");
-  struct arg_end *end      = arg_end(20);
+//  struct arg_lit *help     = arg_lit0("h",  "help",                  "Show help");
+//  struct arg_lit *version  = arg_lit0(NULL, "version",               "Version");
+//  struct arg_lit *verbose  = arg_lit0("v",  "verbose",               "Verbose output");
+//  struct arg_end *end      = arg_end(20);
 
-  void *argtable[] = { help, version, verbose, end};
+//  void *argtable[] = { help, version, verbose, end};
 
   // Print helptext
-  if (help->count) {
-    arg_print_glossary(stdout,argtable,"  %-30s %s\n");
-    exit(0);
-  }
+//  if (help->count) {
+//    arg_print_glossary(stdout,argtable,"  %-30s %s\n");
+//    exit(0);
+//  }
 
   printf("Ett litet testprogram.\n");
 
