@@ -83,11 +83,11 @@ void main(int a) {
 | asd   | asd |asd  |
 |123    | 456 | 789 |
 
-::: Info
+::: info
 Some information
 :::
 
-::: Warning
+::: warning
 Some warning
 :::
 
