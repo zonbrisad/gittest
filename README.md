@@ -83,4 +83,12 @@ void main(int a) {
 | asd   | asd |asd  |
 |123    | 456 | 789 |
 
+::: Info
+Some information
+:::
+
+::: Warning
+Some warning
+:::
+
 ![En bild](test1.png)
