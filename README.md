@@ -91,4 +91,12 @@ Some information
 Some warning
 :::
 
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
+
 ![En bild](test1.png)
