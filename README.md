@@ -14,18 +14,21 @@
     - [Download](#download)
     - [Installation](#installation)
   - [Freqlenty asked Questions](#freqlenty-asked-questions)
+  - [History](#history)
   - [Links](#links)
   - [Contribute](#contribute)
   - [License](#license)
-  - [Some examples, remove after creation](#some-examples-remove-after-creation)
+- [Some examples, remove after creation](#some-examples-remove-after-creation)
 - [The largest heading](#the-largest-heading)
   - [The second largest heading](#the-second-largest-heading)
           - [The smallest heading](#the-smallest-heading)
+  - [Text styles](#text-styles)
   - [Tables](#tables)
   - [List](#list)
   - [Task list](#task-list)
+  - [Code Highlight](#code-highlight)
   - [Colapsed section](#colapsed-section)
-      - [We can hide anything, even code!](#we-can-hide-anything-even-code)
+    - [We can hide anything, even code!](#we-can-hide-anything-even-code)
   - [Links](#links-1)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -51,6 +54,11 @@
 
 
 ## Freqlenty asked Questions
+
+
+## History 
+
+[HISTORY.md](/HISTORY.md)
 
 
 ## Links
